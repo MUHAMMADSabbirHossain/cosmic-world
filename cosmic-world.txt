@@ -12,3 +12,22 @@ Footer: Make a simple footer with a copyright message.
 
 Recommendation: 
 Primary color #FF008E
+
+
+
+
+
+
+﻿Requirements File Link:
+
+https://docs.google.com/document/d/1p59CWU1ORhqRkdkitCKhwjhBmPsXNFQ0G00XpiZWN-0/edit?usp=sharing
+
+
+
+Resource File Link:
+
+https://github.com/dvlprAlamin/cosmic-world-resources
+
+
+
+Github Link:
