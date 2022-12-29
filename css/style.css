@@ -262,6 +262,10 @@ footer {
         grid-template-columns: 1fr;
     }
 
+    .photo {
+        align-items: center;
+    }
+
     .photo img {
         max-width: 350px;
     }
